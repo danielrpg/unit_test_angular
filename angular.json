@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "small-utest"
+  "defaultProject": "small-utest",
+  "cli": {
+    "analytics": false
+  }
 }
